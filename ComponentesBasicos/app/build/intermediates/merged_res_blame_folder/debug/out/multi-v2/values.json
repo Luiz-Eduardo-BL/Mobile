@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/lima/.gradle/caches/transforms-3/0d76255f86db8c60df2795cb123457a5/transformed/appcompat-v7-28.0.0/res/values/values.xml",
@@ -23,26 +23,24 @@
                     }
                 },
                 {
-                    "source": "/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/res/values/themes.xml",
+                    "source": "/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "457"
+                        "startLines": "1,4,3,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "16,165,127,73",
+                        "endColumns": "56,37,37,53",
+                        "endOffsets": "68,198,160,122"
                     },
                     "to": {
-                        "startLines": "1905",
-                        "startColumns": "4",
-                        "startOffsets": "120454",
-                        "endLines": "1911",
-                        "endColumns": "12",
-                        "endOffsets": "120811"
+                        "startLines": "539,540,541,544",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "29235,29292,29330,29492",
+                        "endColumns": "56,37,37,53",
+                        "endOffsets": "29287,29325,29363,29541"
                     }
                 },
                 {
-                    "source": "/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/res/values/colors.xml",
+                    "source": "/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "7,2,3,4,5,6,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -59,20 +57,22 @@
                     }
                 },
                 {
-                    "source": "/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/res/values/strings.xml",
+                    "source": "/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/res/values/themes.xml",
                     "from": {
-                        "startLines": "1,4,3,2",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "16,165,127,73",
-                        "endColumns": "56,37,37,53",
-                        "endOffsets": "68,198,160,122"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "457"
                     },
                     "to": {
-                        "startLines": "539,540,541,544",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "29235,29292,29330,29492",
-                        "endColumns": "56,37,37,53",
-                        "endOffsets": "29287,29325,29363,29541"
+                        "startLines": "1905",
+                        "startColumns": "4",
+                        "startOffsets": "120454",
+                        "endLines": "1911",
+                        "endColumns": "12",
+                        "endOffsets": "120811"
                     }
                 },
                 {

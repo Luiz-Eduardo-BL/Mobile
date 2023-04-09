@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/res/values-iw/values-iw.xml",

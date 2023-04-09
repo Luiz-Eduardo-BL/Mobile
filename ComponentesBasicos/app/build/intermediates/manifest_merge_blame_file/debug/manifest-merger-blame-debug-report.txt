@@ -6,61 +6,61 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+8-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+9-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:5:5-30:19
+11-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:5:5-30:19
 12        android:allowBackup="true"
-12-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:6:9-35
+12-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
 13-->[com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:7:9-43
+15-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:8:9-41
+16-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:9:9-54
+17-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:10:9-35
+18-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/Theme.ComponentesBasicos" >
-20-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:11:9-56
+20-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:11:9-56
 21        <activity
-21-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:12:9-14:40
+21-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:12:9-14:40
 22            android:name="com.example.componentesbasicos.ImageActivity"
-22-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:13:13-42
+22-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:13:13-42
 23            android:exported="false" />
-23-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:14:13-37
+23-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:14:13-37
 24        <activity
-24-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:15:9-17:40
+24-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:15:9-17:40
 25            android:name="com.example.componentesbasicos.ListActivity"
-25-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:16:13-41
+25-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:16:13-41
 26            android:exported="false" />
-26-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:17:13-37
+26-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:17:13-37
 27        <activity
-27-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:18:9-20:40
+27-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:18:9-20:40
 28            android:name="com.example.componentesbasicos.List"
-28-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:19:13-33
+28-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:19:13-33
 29            android:exported="false" />
-29-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:20:13-37
+29-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:20:13-37
 30        <activity
-30-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:21:9-29:20
+30-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:21:9-29:20
 31            android:name="com.example.componentesbasicos.MainActivity"
-31-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:22:13-41
+31-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:22:13-41
 32            android:exported="true" >
-32-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:23:13-36
+32-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:23:13-36
 33            <intent-filter>
-33-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:24:13-28:29
+33-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:24:13-28:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:25:17-69
-34-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:25:25-66
+34-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:25:17-69
+34-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:25:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:27:17-77
-36-->/home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:27:27-74
+36-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:27:17-77
+36-->/mnt/8d3a5e6a-b41c-4dab-816e-f98339073484/Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:27:27-74
 37            </intent-filter>
 38        </activity>
 39    </application>
