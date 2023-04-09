@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/lima/.gradle/caches/transforms-3/49dd0c0918fb039a5d4c3c9e58c92371/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lima/.gradle/caches/transforms-3/0d76255f86db8c60df2795cb123457a5/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lima/.gradle/caches/transforms-3/7de54360c21e17cf312699630682bfa5/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lima/.gradle/caches/transforms-3/6da1c00e9c12e4a0edfc09ebb7549172/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lima/.gradle/caches/transforms-3/4deda7e5be1c6b56ff6bab334e0bd667/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lima/.gradle/caches/transforms-3/87d484726812926d1fce19d3b6ceda0e/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lima/.gradle/caches/transforms-3/6fa17e80b5b6adf7f060ec1fe2ff09ee/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/lima/.gradle/caches/transforms-3/4cd82aaef99e7c06498ab3465c379c35/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/lima/.gradle/caches/transforms-3/6580b496fa0759fdab5a0799e8ed0f66/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/5b41189aad5b93f3df3519b94bb8df9a/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/f46726fbc987d0815ae45d402cba39ce/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lima/.gradle/caches/transforms-3/89d81d8fab0d63f8b0795071bcac8188/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/lima/.gradle/caches/transforms-3/114ac63e50c6831c326dbf44a870837e/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/f66e195c43b6ce2f50bb192673e81811/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lima/.gradle/caches/transforms-3/7142cd82d2cc2571cfe997cc50962c0f/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lima/.gradle/caches/transforms-3/2a5fbc67d4f64cfa4860e3e1f76de88f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lima/.gradle/caches/transforms-3/c352e44d56b1cae737963fbd1dc5cc4f/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lima/.gradle/caches/transforms-3/5de318f8abf91ea99c93874a94432f52/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/lima/.gradle/caches/transforms-3/be1f8ae2cc016a97bfaa3d64ba4d183d/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lima/.gradle/caches/transforms-3/89ee935c4544782e92f37751e4d4a255/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/lima/.gradle/caches/transforms-3/85fe4550f62c3ae31b0d79880cf2ddf2/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lima/.gradle/caches/transforms-3/0cc285e05c83e865d8e4eaba26c4b1fc/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lima/.gradle/caches/transforms-3/880abb03a0ef6a1db40ae0827768f672/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lima/.gradle/caches/transforms-3/a605435e41e7392ebc3bff52bb988fc0/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/lima/.gradle/caches/transforms-3/853a72e8888704a67343866272dc0f38/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/lima/.gradle/caches/transforms-3/f2ea111634c342723ffcac500768c903/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/lima/.gradle/caches/transforms-3/49dd0c0918fb039a5d4c3c9e58c92371/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/lima/.gradle/caches/transforms-3/49dd0c0918fb039a5d4c3c9e58c92371/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lima/.gradle/caches/transforms-3/2a5fbc67d4f64cfa4860e3e1f76de88f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lima/.gradle/caches/transforms-3/2a5fbc67d4f64cfa4860e3e1f76de88f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:11:9-56
+activity#com.example.componentesbasicos.ImageActivity
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:13:13-42
+activity#com.example.componentesbasicos.ListActivity
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:16:13-41
+activity#com.example.componentesbasicos.List
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:19:13-33
+activity#com.example.componentesbasicos.MainActivity
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/lima/.gradle/caches/transforms-3/49dd0c0918fb039a5d4c3c9e58c92371/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/lima/.gradle/caches/transforms-3/49dd0c0918fb039a5d4c3c9e58c92371/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lima/.gradle/caches/transforms-3/0d76255f86db8c60df2795cb123457a5/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/lima/.gradle/caches/transforms-3/0d76255f86db8c60df2795cb123457a5/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lima/.gradle/caches/transforms-3/7de54360c21e17cf312699630682bfa5/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/lima/.gradle/caches/transforms-3/7de54360c21e17cf312699630682bfa5/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lima/.gradle/caches/transforms-3/6da1c00e9c12e4a0edfc09ebb7549172/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/lima/.gradle/caches/transforms-3/6da1c00e9c12e4a0edfc09ebb7549172/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lima/.gradle/caches/transforms-3/4deda7e5be1c6b56ff6bab334e0bd667/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/lima/.gradle/caches/transforms-3/4deda7e5be1c6b56ff6bab334e0bd667/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lima/.gradle/caches/transforms-3/87d484726812926d1fce19d3b6ceda0e/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/lima/.gradle/caches/transforms-3/87d484726812926d1fce19d3b6ceda0e/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lima/.gradle/caches/transforms-3/6fa17e80b5b6adf7f060ec1fe2ff09ee/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/lima/.gradle/caches/transforms-3/6fa17e80b5b6adf7f060ec1fe2ff09ee/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lima/.gradle/caches/transforms-3/4cd82aaef99e7c06498ab3465c379c35/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/lima/.gradle/caches/transforms-3/4cd82aaef99e7c06498ab3465c379c35/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lima/.gradle/caches/transforms-3/6580b496fa0759fdab5a0799e8ed0f66/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/lima/.gradle/caches/transforms-3/6580b496fa0759fdab5a0799e8ed0f66/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/5b41189aad5b93f3df3519b94bb8df9a/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/5b41189aad5b93f3df3519b94bb8df9a/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/f46726fbc987d0815ae45d402cba39ce/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/f46726fbc987d0815ae45d402cba39ce/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lima/.gradle/caches/transforms-3/89d81d8fab0d63f8b0795071bcac8188/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/lima/.gradle/caches/transforms-3/89d81d8fab0d63f8b0795071bcac8188/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lima/.gradle/caches/transforms-3/114ac63e50c6831c326dbf44a870837e/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/lima/.gradle/caches/transforms-3/114ac63e50c6831c326dbf44a870837e/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/f66e195c43b6ce2f50bb192673e81811/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/lima/.gradle/caches/transforms-3/f66e195c43b6ce2f50bb192673e81811/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lima/.gradle/caches/transforms-3/7142cd82d2cc2571cfe997cc50962c0f/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/lima/.gradle/caches/transforms-3/7142cd82d2cc2571cfe997cc50962c0f/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/lima/.gradle/caches/transforms-3/c9827542d72524cbecb684d0e2a12bd1/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lima/.gradle/caches/transforms-3/2a5fbc67d4f64cfa4860e3e1f76de88f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/lima/.gradle/caches/transforms-3/2a5fbc67d4f64cfa4860e3e1f76de88f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lima/.gradle/caches/transforms-3/c352e44d56b1cae737963fbd1dc5cc4f/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/lima/.gradle/caches/transforms-3/c352e44d56b1cae737963fbd1dc5cc4f/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lima/.gradle/caches/transforms-3/5de318f8abf91ea99c93874a94432f52/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/lima/.gradle/caches/transforms-3/5de318f8abf91ea99c93874a94432f52/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lima/.gradle/caches/transforms-3/be1f8ae2cc016a97bfaa3d64ba4d183d/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/lima/.gradle/caches/transforms-3/be1f8ae2cc016a97bfaa3d64ba4d183d/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lima/.gradle/caches/transforms-3/89ee935c4544782e92f37751e4d4a255/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/lima/.gradle/caches/transforms-3/89ee935c4544782e92f37751e4d4a255/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lima/.gradle/caches/transforms-3/85fe4550f62c3ae31b0d79880cf2ddf2/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/lima/.gradle/caches/transforms-3/85fe4550f62c3ae31b0d79880cf2ddf2/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lima/.gradle/caches/transforms-3/0cc285e05c83e865d8e4eaba26c4b1fc/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/lima/.gradle/caches/transforms-3/0cc285e05c83e865d8e4eaba26c4b1fc/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lima/.gradle/caches/transforms-3/880abb03a0ef6a1db40ae0827768f672/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/lima/.gradle/caches/transforms-3/880abb03a0ef6a1db40ae0827768f672/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lima/.gradle/caches/transforms-3/a605435e41e7392ebc3bff52bb988fc0/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/lima/.gradle/caches/transforms-3/a605435e41e7392ebc3bff52bb988fc0/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lima/.gradle/caches/transforms-3/853a72e8888704a67343866272dc0f38/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/lima/.gradle/caches/transforms-3/853a72e8888704a67343866272dc0f38/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lima/.gradle/caches/transforms-3/f2ea111634c342723ffcac500768c903/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/lima/.gradle/caches/transforms-3/f2ea111634c342723ffcac500768c903/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		ADDED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lima/Documentos/Desenvolvimento-Software-Mobile/ComponentesBasicos/app/src/main/AndroidManifest.xml
